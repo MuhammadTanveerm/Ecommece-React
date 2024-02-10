@@ -1,0 +1,61 @@
+/* Extra small devices (phones) */
+@media only screen and (max-width: 576px) {
+/* Category section */
+ /*category-section*/
+ .slider-section  h3{
+  margin:0.6rem 0rem;
+ }
+ .category-section p{
+    width: 100%;
+    margin:2rem 0rem;
+}
+.feactured-product p{
+  width: 100%;
+  margin: 0 auto;
+}
+.brand p{
+  width:100%;
+}
+
+#slider_wrapper_djqpk1ygAl{
+  margin:2rem 0rem !important;
+  
+}
+.view-section  .view-box{
+  padding:1rem 0rem;
+}
+.contact-section{
+  padding:2rem 0rem;
+}
+.contact-section p{
+  width:100%
+}
+.section-form {
+  padding:2.5rem 0rem;
+}
+  }
+  .
+  /* Small devices (tablets) */
+  @media only screen and (min-width: 577px) and (max-width: 768px) {
+    /* Styles for tablets go here */
+    .category-section p{
+        width: 100%;
+    }
+  }
+  
+  /* Medium devices (desktops) */
+  @media only screen and (min-width: 769px) and (max-width: 992px) {
+   
+    
+  
+  /* Large devices (large desktops) */
+  @media only screen and (min-width: 993px) and (max-width: 1200px) {
+    /* Styles for large desktops go here */
+  
+
+  
+  /* Extra large devices (extra-large desktops) */
+  @media only screen and (min-width: 1201px) {
+    /* Styles for extra-large desktops go here */
+  }
+  
